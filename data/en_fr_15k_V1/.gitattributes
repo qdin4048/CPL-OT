@@ -1,0 +1,1 @@
+fr_bert300.json filter=lfs diff=lfs merge=lfs -text
