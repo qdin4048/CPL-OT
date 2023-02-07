@@ -10,5 +10,6 @@ pytorch--1.7.1;\
 cudatoolkit--10.1.243.
 
 Source codes instructions:\
-1.Open the file named "training_dbp15k.py" and "training_srprs.py" with Spyder to run CPL-OT on DBP15K and SRPRS respectively;\
-2.Click "Run file".
+1.Download the "data.zip" from https://drive.google.com/file/d/13bPEknk0BVzwSzXL_cgK7PraKuR-vKfV/view?usp=share_link, then extract it to replace the original "data" folder in the depository;\
+2.Open the file named "training_dbp15k.py" and "training_srprs.py" with Spyder to run CPL-OT on DBP15K and SRPRS respectively;\
+3.Click "Run file".
